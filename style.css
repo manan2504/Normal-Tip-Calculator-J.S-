@@ -11,7 +11,7 @@
 }
 
 body {
-  background: #c44545;
+  background: #45bec4;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -67,7 +67,7 @@ i {
   outline: none;
   border-radius: 5px;
   border: none;
-  background: #13eecf;
+  background: #ff5d5d;
   box-shadow: 2px 2px 4px #c44545, -1px -1px 3px #ff5d5d;
   color: white;
   margin: 2rem 0rem;
