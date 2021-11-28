@@ -1,10 +1,6 @@
 #JS-Tip-And-Normal-Calculator
 This is a combined web app of Tip-Calculator & Normal-Calculator.
 
-# To-Do-List
-
-This is a To-Do List where you note down thing for a day that what task you will do in a day or in upcoming days.
-
 d### <a href="https://gracious-bardeen-a3e632.netlify.app/" target="_blank">**Live Demo 🚀**</a>
 
 ## Tech Stack
@@ -15,4 +11,4 @@ d### <a href="https://gracious-bardeen-a3e632.netlify.app/" target="_blank">**Li
 
 ## ScreenShot
 
-<img src="./images/Screenshot1.png >
+<img src="./Screenshot1>
